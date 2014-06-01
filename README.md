@@ -24,3 +24,5 @@ Members List
 
 UML-diagram
 ==========
+
+![alt tag](CarFeatures.png )
